@@ -1,16 +1,26 @@
-### Hi there 👋
+# 👋 Hi, I’m Sanidhya! Thanks for Stopping by!
+- 👀 I enjoy working on Computer Vision and NLP-based projects. I firmly believe that research outcomes should be equitable to all sections of society, and intend to contribute to the same using novel artificial intelligence-based solutions.
+- 🌱 I’m currently pursuing my Master's in Computer Science at UC San Diego, learning Principles of AI, Computer Vision, BioNLP, and much more!
+- 💞️ I’m looking to collaborate on AI-aaS projects to build interdisciplinary ergonomic AI applications. I intend to push for AI in Medicine and Healthcare.
+- 📫 Drop me a DM on [Linkedin](https://www.linkedin.com/in/sanidhyasingal/), or Holler me on my [email](sanidhyasingal@gmail.com) if you're interested to collaborate on something cool!
 
-<!--
-**sayhitosandy/sayhitosandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👷‍♂️ Skills 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,go,pytorch,tensorflow,aws,mysql,github,idea,latex,git,c,bash,linux,md,matlab,mongodb,vscode&perline=6" />
+  </a>
+</p>
+<!-- [![My Skills](https://skillicons.dev/icons?i=py,cpp,go,pytorch,tensorflow,aws,mysql,github,idea,latex,git,c,bash,linux,md,matlab,mongodb,vscode&perline=6)](https://skillicons.dev) -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Stats for Nerds 
+<p align="center">
+  <a href="[Top Langs](https://github.com/sayhitosandy/github-readme-stats)">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sayhitosandy&theme=transparent&layout=compact" />
+  </a>
+  <br>
+  <a href="[Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sayhitosandy&theme=transparent&show_icons=true&count_private=true)">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sayhitosandy&theme=transparent&show_icons=true&count_private=true" />
+  </a>
+</p>
+<!-- [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sayhitosandy&layout=compact)](https://github.com/sayhitosandy/github-readme-stats) -->
+<!-- ![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sayhitosandy&theme=transparent&show_icons=true&count_private=true) -->
