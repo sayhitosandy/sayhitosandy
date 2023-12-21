@@ -1,10 +1,10 @@
-# 👋 Hi, I’m Sanidhya! Thanks for Stopping by!
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=32&pause=1000&color=000000&vCenter=true&random=false&width=700&height=40&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Sanidhya!+Thanks+for+Stopping+by!)](https://git.io/typing-svg)
 - 👀 I enjoy working on Computer Vision and NLP-based projects. I firmly believe that research outcomes should be equitable to all sections of society, and intend to contribute to the same using novel artificial intelligence-based solutions.
 - 🌱 I’m currently pursuing my Master's in Computer Science at UC San Diego, learning Principles of AI, Computer Vision, BioNLP, and much more!
 - 💞️ I’m looking to collaborate on AI-aaS projects to build interdisciplinary ergonomic AI applications. I intend to push for AI in Medicine and Healthcare.
 - 📫 Drop me a DM on [LinkedIn](https://www.linkedin.com/in/sanidhyasingal/) or holler me on my [email](sanidhyasingal@gmail.com) if you're interested to collaborate on something cool!
 
-## 👷‍♂️ Skills 
+### 👷‍♂️ Skills 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,go,pytorch,tensorflow,aws,mysql,github,idea,latex,git,c,bash,linux,md,matlab,mongodb,vscode&perline=6" />
@@ -12,7 +12,7 @@
 </p>
 <!-- [![My Skills](https://skillicons.dev/icons?i=py,cpp,go,pytorch,tensorflow,aws,mysql,github,idea,latex,git,c,bash,linux,md,matlab,mongodb,vscode&perline=6)](https://skillicons.dev) -->
 
-## 📊 Stats for Nerds 
+### 📊 Stats for Nerds 
 <p align="center">
   <a href="[Top Langs](https://github.com/sayhitosandy/github-readme-stats)">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sayhitosandy&theme=transparent&layout=compact" />
