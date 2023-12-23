@@ -2,7 +2,7 @@
 - 👀 I enjoy working on Computer Vision and NLP-based projects. I firmly believe that research outcomes should be equitable to all sections of society, and intend to contribute to the same using novel artificial intelligence-based solutions.
 - 🌱 I’m currently pursuing my Master's in Computer Science at UC San Diego, learning Principles of AI, Computer Vision, BioNLP, and much more!
 - 💞️ I’m looking to collaborate on AI-aaS projects to build interdisciplinary ergonomic AI applications. I intend to push for AI in Medicine and Healthcare.
-- 📫 Drop me a DM on [LinkedIn](https://www.linkedin.com/in/sanidhyasingal/) or holler me on my [email](sanidhyasingal@gmail.com) if you're interested to collaborate on something cool!
+- 📫 Drop me a DM on [LinkedIn](https://www.linkedin.com/in/sanidhyasingal/) or holler me on my [email](mailto:sanidhyasingal@gmail.com) if you're interested to collaborate on something cool!
 
 ### 👷‍♂️ Skills 
 <p align="center">
