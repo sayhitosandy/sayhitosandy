@@ -13,6 +13,7 @@
 <!-- [![My Skills](https://skillicons.dev/icons?i=py,cpp,go,pytorch,tensorflow,aws,mysql,github,idea,latex,git,c,bash,linux,md,matlab,mongodb,vscode&perline=6)](https://skillicons.dev) -->
 
 ### 📊 Stats for Nerds 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sayhitosandy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 <p align="center">
   <a href="[Top Langs](https://github.com/sayhitosandy/github-readme-stats)">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sayhitosandy&theme=transparent&layout=compact" />
