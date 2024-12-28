@@ -1,6 +1,5 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=32&pause=1000&color=000000&vCenter=true&random=false&width=700&height=40&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Sanidhya!+Thanks+for+Stopping+by!)](https://git.io/typing-svg)
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=32&pause=1000&color=FFFFFF&vCenter=true&random=false&width=700&height=40&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Sanidhya!+Thanks+for+Stopping+by!" /> <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=32&pause=1000&color=000000&vCenter=true&random=false&width=700&height=40&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Sanidhya!+Thanks+for+Stopping+by!" alt="Typing SVG" /> </picture>
 - 👀 I enjoy working on Computer Vision and NLP-based projects. I firmly believe that research outcomes should be equitable to all sections of society, and intend to contribute to the same using novel artificial intelligence-based solutions.
-- 🌱 I’m currently pursuing my Master's in Computer Science at UC San Diego, learning Principles of AI, Computer Vision, BioNLP, and much more!
 - 💞️ I’m looking to collaborate on AI-aaS projects to build interdisciplinary ergonomic AI applications. I intend to push for AI in Medicine and Healthcare.
 - 📫 Drop me a DM on [LinkedIn](https://www.linkedin.com/in/sanidhyasingal/) or holler me on my [email](mailto:sanidhyasingal@gmail.com) if you're interested to collaborate on something cool!
 
