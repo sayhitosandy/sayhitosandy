@@ -11,6 +11,13 @@
 </p>
 <!-- [![My Skills](https://skillicons.dev/icons?i=py,cpp,go,pytorch,tensorflow,aws,mysql,github,idea,latex,git,c,bash,linux,md,matlab,mongodb,vscode&perline=6)](https://skillicons.dev) -->
 
+### 💎 Badges
+<p align="center">
+  <a href="https://holopin.io/@sayhitosandy">
+    <img src="https://holopin.me/sayhitosandy" width="700" alt="An image of @sayhitosandy's Holopin badges, which is a link to view their full Holopin profile"/>
+  </a>
+</p>
+
 ### 📊 Stats for Nerds 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sayhitosandy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 <p align="center">
